@@ -1,0 +1,150 @@
+h1 {
+    margin-top: 30px;
+    font-family: 'Sacramento', serif;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2,
+h3,
+p {
+    font-family: 'Merriweather', serif;
+    color: #11999E;
+}
+
+.skill-row{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.area{
+    text-decoration: underline;
+}
+
+.interest {
+    height: 150px;
+    width: 150px;
+    position: relative;
+    right: 300px;
+    top: 40px;
+}
+
+.field{
+    position: relative;
+    left: 20px;
+    bottom: 180px;
+}
+
+.description{
+position: relative;
+left: 180px;
+bottom: 132px;
+text-align: left;
+}
+
+.name {
+    position: relative;
+    left: 15px;
+}
+
+strong {
+    color: #66BFBF;
+}
+
+.profession {
+    font-size: 2.5rem;
+    position: relative;
+    left: 20px;
+    bottom: 40px;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #E4F9F5;
+    position: relative;
+    font-family: 'Merriweather', serif;
+}
+
+.specialization {
+    text-decoration: underline;
+
+}
+
+.html {
+    height: 100px;
+    width: 100px;
+}
+
+.contact-me{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.top-container {
+    position: relative;
+    top: 120px;
+    right: 2%;
+}
+
+.phone{
+    color: white;
+}
+
+.middle-container {
+    position: relative;
+    top: 100px;
+    background-color: rgb(255, 255, 255);
+}
+
+.btn-text{
+    padding: 5px;
+    background-color: #11999E;
+    color: #E4F9F5;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.btn{
+    text-decoration: none;
+}
+
+.footer-link{
+    position: relative;
+    top: 20px;
+    color: white;
+
+}
+
+.copy-right{
+    position: relative;
+    top: 15px;
+    color: white;
+}
+
+.bottom-container {
+    position: relative;
+    top: 100px;
+    margin-top: 10px;
+    background-color: #66BFBF;
+    height: 100px;
+}
+
+
+.top-cloud {
+    position: relative;
+    left: 20%;
+    top: 130px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 500px;
+    left: 50px;
+}
+
+.mountain {
+    position: relative;
+    top: 120px;
+}
